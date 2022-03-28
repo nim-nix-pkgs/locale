@@ -11,7 +11,6 @@
   inputs.src-locale-master.ref   = "refs/heads/master";
   inputs.src-locale-master.owner = "Amrykid";
   inputs.src-locale-master.repo  = "nim-locale";
-  inputs.src-locale-master.dir   = "";
   inputs.src-locale-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
