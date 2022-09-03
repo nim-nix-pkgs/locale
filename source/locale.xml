@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<locale>
+    <string key="Greeting">
+    	<trans lang="en" value="Hello">Hello</trans>
+        <trans lang="es" value="Hola">Hola</trans>
+        <trans lang="de" value="Hallo"/>
+    </string>
+</locale>
